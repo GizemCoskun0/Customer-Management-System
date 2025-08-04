@@ -69,6 +69,7 @@ Bu proje, *Java (Swing GUI)* ve *MySQL* kullanılarak geliştirilen bir masaüst
 - Kod yapısı MVC (Model-View-Controller) düzenine uygundur.
 - Uygulama sadece masaüstü ortamında çalışır (web değil).
 - JDBC bağlantı hatalarına karşı DbHelper.showMsg() gibi yardımcı sınıflar kullanılmıştır.
+- Bu uygulama tamamen İngilizce olarak tasarlanmıştır. Tüm ekran metinleri ve kullanıcı etkileşimleri İngilizcedir.
 
 ---
 
@@ -150,6 +151,7 @@ This project is a *desktop application* developed using *Java (Swing GUI)* and *
 - The project follows a simplified *MVC (Model-View-Controller)* structure.
 - Designed for *desktop use only*, not web-based.
 - Helper classes such as DbHelper are used for database operations and error handling.
+- This application is fully designed in English. All UI texts and interactions are in English.
 
 ---
 
